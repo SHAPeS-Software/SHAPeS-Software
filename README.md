@@ -14,8 +14,8 @@ Nothing... yet!
 [![JavaScript](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png?raw=true =32x32)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## My OS
+
 Debian (Mostly) with an unregistered version of Windows 11 (Coz I don't like Microsoft, so I not paying) for gaming.
----
 
 **Alright, no more reading the README, stop slacking off!**
 
