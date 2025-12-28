@@ -17,5 +17,8 @@ Nothing... yet!
 
 Debian (Mostly) with an unregistered version of Windows 11 (Coz I don't like Microsoft, so I not paying) for gaming.
 
+## Also...
+[/neovim-mark.png](https://neovim.io/)eovim, btw
+
 **Alright, no more reading the README, stop slacking off!**
 
