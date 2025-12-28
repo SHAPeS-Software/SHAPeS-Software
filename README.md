@@ -19,6 +19,6 @@ Debian (Mostly) with an unregistered version of Windows 11 (Coz I don't like Mic
 
 ## Also...
 [<img src="./neovim-mark.png" width="32" height="32">](https://neovim.io/)eovim, btw
-
+--------------------------------------------------------------------------------
 **Alright, no more reading the README, stop slacking off!**
 
